@@ -22,3 +22,8 @@
 ## 📫 Connect
 
 - GitHub: https://github.com/haoyousun60-create
+
+---
+
+### ⚡ Contributed Projects
+[![RustChain Contributor](https://img.shields.io/badge/RustChain-Contributor-blue)](https://github.com/Scottcjn/Rustchain)
